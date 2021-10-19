@@ -19,3 +19,24 @@ To install this application, you will need a text editor. such as Visual Studio 
 # Installing
 
 To install this code, download the zip file, or use GitHub's guidelines to clone the repository. Then simply open in preferred browser.
+
+# Summary
+* HTML and CSS, Javascript documents along with external sources create a weather dashboard that allows you to search cities current weather and also a 5 day forecast.
+* This project emphasizes the use of using an external API to pull up to date weather data about any city tracked by the API.
+* When a city is searched for it is saved to local storage.
+
+
+# This project has the following features 
+    Search function for looking at a particular cities current and future weather(up to 5 days).
+    * Search history is saved via local storage.
+    * Then the user is presented with the current weather and 5 days of future weather in an easy to view card layout.
+    * Icons representing the current state of the weather such as clouds/ rain or sun are displayed as well the temperature and humidity.
+    
+    
+
+# Authors
+ Jacob Constantinidis 
+
+
+# Acknowledgements
+Adelaide University full stack flex bootcamp for providing project parameters and guides.
