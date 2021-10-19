@@ -10,7 +10,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 * [Deployed GitHub IO](https://jconstant112.github.io/Weather-Dashboard-API//)
 
 # Project screenshot
-!["exampleimg1"](./assets/images/Screenshot.png)
+!["exampleimg1"](./assets/images/Screenshot-weather-dashboard-API.png)
 
 # Prerequisites
 
